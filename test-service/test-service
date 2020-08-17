@@ -1,2 +1,2 @@
-S_POSTGRES_HOST        postgres 
+S_POSTGRES_HOST        postgres:5432 
 S_KAFKA_BOOTSTRAP_HOST kafka:9092
