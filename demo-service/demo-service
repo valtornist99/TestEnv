@@ -1,0 +1,3 @@
+S_POSTGRES_HOST        postgres
+S_KAFKA_BOOTSTRAP_HOST kafka:9092
+S_SERVICE_APP_HOST     demo-service
